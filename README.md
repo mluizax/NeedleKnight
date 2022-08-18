@@ -1,2 +1,2 @@
 # NeedleKnight
-Projeto da cadeira de Introdução a Programação (CIn - UFPE), em maio de 2022.
+Project for the Introduction to Programming course (CIn - UFPE), in May 2022.
